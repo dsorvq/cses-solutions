@@ -1,5 +1,4 @@
 # cses-solutions
-My solutions to CSES problem set
 
 ### Sorting and Searching Problems
 
@@ -19,7 +18,7 @@ My solutions to CSES problem set
 | [Collecting Numbers II](https://cses.fi/problemset/task/2217)  | [...](sorting-and-searching/)                                                          |
 | [Playlist](https://cses.fi/problemset/task/1141)  | [unordered set + custom hash](sorting-and-searching/1141-playlist.cpp)                                                          |
 | [Towers](https://cses.fi/problemset/task/1073)  | [binary search](sorting-and-searching/1073-towers.cpp)                                                          |
-| [Traffic Lights](https://cses.fi/problemset/task/1163)  | [ordered set + binary serach (better algo?)](sorting-and-searching/1163-traffic-lights.cpp)                                                          |
+| [Traffic Lights](https://cses.fi/problemset/task/1163)  | [ordered set + binary serach](sorting-and-searching/1163-traffic-lights.cpp) or (better algo?)                                                          |
 | [Josephus Problem I](https://cses.fi/problemset/task/2162)  | [linked list](sorting-and-searching/2162-josephus-problem-i.cpp)                                                          |
 | [Josephus Problem II](https://cses.fi/problemset/task/2163)  | [...](sorting-and-searching/)                                                          |
 | [Nested Ranges Check](https://cses.fi/problemset/task/2168)  | [...](sorting-and-searching/)                                                          |
