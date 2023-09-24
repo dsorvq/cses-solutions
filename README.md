@@ -23,7 +23,7 @@
 | [Josephus Problem II](https://cses.fi/problemset/task/2163)  | [...](sorting-and-searching/)                                                          |
 | [Nested Ranges Check](https://cses.fi/problemset/task/2168)  | [...](sorting-and-searching/)                                                          |
 | [Nested Ranges Count](https://cses.fi/problemset/task/2169)  | [...](sorting-and-searching/)                                                          |
-| [Room Allocation](https://cses.fi/problemset/task/1164)  | [...](sorting-and-searching/)                                                          |
+| [Room Allocation](https://cses.fi/problemset/task/1164)  | [sorting + priority queue](sorting-and-searching/1164-room-allocation.cpp)                                                          |
 | [Factory Machines](https://cses.fi/problemset/task/1620)  | [...](sorting-and-searching/)                                                          |
 | [Tasks and Deadlines](https://cses.fi/problemset/task/1630)  | [...](sorting-and-searching/)                                                          |
 | [Reading Books](https://cses.fi/problemset/task/1631)  | [...](sorting-and-searching/)                                                          |
