@@ -13,7 +13,7 @@
 | [Sum of Two Values](https://cses.fi/problemset/task/1640)  | [sorting + binary search](sorting-and-searching/1640-sum-of-two-values.cpp)                                                          |
 | [Maximum Subarray Sum](https://cses.fi/problemset/task/1643)  | [adhoc O(n)](sorting-and-searching/1643-maximum-subarray-sum.cpp)                                                          |
 | [Stick Lengths](https://cses.fi/problemset/task/1074)  | [median find](sorting-and-searching/1074-stick-lengths.cpp)                                                          |
-| [Missing Coin Sum](https://cses.fi/problemset/task/2183)  | [...](sorting-and-searching/)                                                          |
+| [Missing Coin Sum](https://cses.fi/problemset/task/2183)  | [sorting + adhoc O(n)](sorting-and-searching/2183-missing-coin-sum.cpp)                                                          |
 | [Collecting Numbers](https://cses.fi/problemset/task/2216)  | [adhoc O(n)](sorting-and-searching/2216-collecting-numbers.cpp)                                                          |
 | [Collecting Numbers II](https://cses.fi/problemset/task/2217)  | [...](sorting-and-searching/)                                                          |
 | [Playlist](https://cses.fi/problemset/task/1141)  | [unordered set + custom hash](sorting-and-searching/1141-playlist.cpp)                                                          |
