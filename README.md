@@ -25,6 +25,7 @@
 | [Nested Ranges Count](https://cses.fi/problemset/task/2169)  | [...](sorting-and-searching/)                                                          |
 | [Room Allocation](https://cses.fi/problemset/task/1164)  | [sorting + priority queue](sorting-and-searching/1164-room-allocation.cpp)                                                          |
 | [Factory Machines](https://cses.fi/problemset/task/1620)  | [binary search + linear scan](sorting-and-searching/1620-factory-machines.cpp)                                                          |
-| [Tasks and Deadlines](https://cses.fi/problemset/task/1630)  | [...](sorting-and-searching/)                                                          |
-| [Reading Books](https://cses.fi/problemset/task/1631)  | [...](sorting-and-searching/)                                                          |
-| [Sum of Three Values](https://cses.fi/problemset/task/1641)  | [...](sorting-and-searching/)                                                          |
+| [Tasks and Deadlines](https://cses.fi/problemset/task/1630)  | [sorting](sorting-and-searching/1630-tasks-and-deadlines.cpp)                                                          |
+| [Reading Books](https://cses.fi/problemset/task/1631)  | [linear scan](sorting-and-searching/1631-reading-books.cpp)                                                          |
+| [Sum of Three Values](https://cses.fi/problemset/task/1641)  | [sorting + two pointers](sorting-and-searching/1641-sum-of-three-values.cpp)                                                          |
+| [Sum of Four Values](https://cses.fi/problemset/task/1641)  | [sorting + two pointers](sorting-and-searching/1643-sum-of-four-values.cpp)                                                          |
