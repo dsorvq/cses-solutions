@@ -28,4 +28,7 @@
 | [Tasks and Deadlines](https://cses.fi/problemset/task/1630)  | [sorting](sorting-and-searching/1630-tasks-and-deadlines.cpp)                                                          |
 | [Reading Books](https://cses.fi/problemset/task/1631)  | [linear scan](sorting-and-searching/1631-reading-books.cpp)                                                          |
 | [Sum of Three Values](https://cses.fi/problemset/task/1641)  | [sorting + two pointers](sorting-and-searching/1641-sum-of-three-values.cpp)                                                          |
-| [Sum of Four Values](https://cses.fi/problemset/task/1641)  | [sorting + two pointers](sorting-and-searching/1643-sum-of-four-values.cpp)                                                          |
+| [Sum of Four Values](https://cses.fi/problemset/task/1642)  | [sorting + two pointers](sorting-and-searching/1642-sum-of-four-values.cpp)                                                          |
+| [Nearest Smaller Values](https://cses.fi/problemset/task/1645)  | [stack](sorting-and-searching/1645-nearest-smaller-values.cpp)                                                          |
+| [Subarray Sums I](https://cses.fi/problemset/task/1660)  | [two pointers](sorting-and-searching/1660-subarray-sums-i.cpp)                                                          |
+| [Subarray Sums II](https://cses.fi/problemset/task/1661)  | [prefix sum + unordered map](sorting-and-searching/1661-subarray-sums-ii.cpp)                                                          |
