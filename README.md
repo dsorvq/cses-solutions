@@ -32,3 +32,5 @@
 | [Nearest Smaller Values](https://cses.fi/problemset/task/1645)  | [stack](sorting-and-searching/1645-nearest-smaller-values.cpp)                                                          |
 | [Subarray Sums I](https://cses.fi/problemset/task/1660)  | [two pointers](sorting-and-searching/1660-subarray-sums-i.cpp)                                                          |
 | [Subarray Sums II](https://cses.fi/problemset/task/1661)  | [prefix sum + unordered map](sorting-and-searching/1661-subarray-sums-ii.cpp)                                                          |
+| [Subarray Divisibility](https://cses.fi/problemset/task/1662)  | [modular arithmetic (weird c++)](sorting-and-searching/1662-subarray-divisibility.cpp)                                                          |
+| [Subarray Distinct Values](https://cses.fi/problemset/task/2428)  | [unordered map + two pointers](sorting-and-searching/2428-subarray-distinct-values.cpp)                                                          |
