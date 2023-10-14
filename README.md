@@ -37,3 +37,4 @@
 | [Array Division](https://cses.fi/problemset/task/1085)  | [binary search + linear scan](sorting-and-searching/1085-array-division.cpp)                                                          |
 | [Sliding Median](https://cses.fi/problemset/task/1076)  | [two multisets](sorting-and-searching/1076-sliding-median.cpp)                                                          |
 | [Sliding Cost](https://cses.fi/problemset/task/1076)  | [two multisets](sorting-and-searching/1077-sliding-cost.cpp)                                                          |
+| [Movie Festival II](https://cses.fi/problemset/task/1076)  | [two multisets](sorting-and-searching/1632-movie-festival-ii.cpp)                                                          |
