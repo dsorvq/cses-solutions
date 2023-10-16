@@ -48,3 +48,5 @@
 | [Minimizing Coins](https://cses.fi/problemset/task/1634/)     | [dp](dynamic-programming/1634-minimizing-coins.cpp)                     |
 | [Coin Combinations I](https://cses.fi/problemset/task/1635/)  | [dp](dynamic-programming/1635-coin-combinations-i.cpp)                  |
 | [Coin Combinations II](https://cses.fi/problemset/task/1635/) | [dp](dynamic-programming/1636-coin-combinations-ii.cpp)                 |
+| [Removing Digits](https://cses.fi/problemset/task/1635/)      | [greedy](dynamic-programming/1637-removing-digits.cpp)                  |
+| [Grid Paths](https://cses.fi/problemset/task/1638/)           | [dp](dynamic-programming/1638-grid-paths.cpp)                           |
