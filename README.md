@@ -42,7 +42,9 @@
 
 ### Dynamic Programming
 
-| Problem Name                                                | Solution                                                                |
-|-------------------------------------------------------------|-------------------------------------------------------------------------|
-| [Dice Combinations](https://cses.fi/problemset/task/1633/)  | [dp](dynamic-programming/1633-dice-combinations.cpp)                    |
-| [Minimizing Coins](https://cses.fi/problemset/task/1634/)   | [dp](dynamic-programming/1634-minimizing-coins.cpp)                     |
+| Problem Name                                                  | Solution                                                                |
+|---------------------------------------------------------------|-------------------------------------------------------------------------|
+| [Dice Combinations](https://cses.fi/problemset/task/1633/)    | [dp](dynamic-programming/1633-dice-combinations.cpp)                    |
+| [Minimizing Coins](https://cses.fi/problemset/task/1634/)     | [dp](dynamic-programming/1634-minimizing-coins.cpp)                     |
+| [Coin Combinations I](https://cses.fi/problemset/task/1635/)  | [dp](dynamic-programming/1635-coin-combinations-i.cpp)                  |
+| [Coin Combinations II](https://cses.fi/problemset/task/1635/) | [dp](dynamic-programming/1636-coin-combinations-ii.cpp)                 |
