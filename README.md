@@ -50,3 +50,4 @@
 | [Coin Combinations II](https://cses.fi/problemset/task/1635/) | [dp](dynamic-programming/1636-coin-combinations-ii.cpp)                 |
 | [Removing Digits](https://cses.fi/problemset/task/1635/)      | [greedy](dynamic-programming/1637-removing-digits.cpp)                  |
 | [Grid Paths](https://cses.fi/problemset/task/1638/)           | [dp](dynamic-programming/1638-grid-paths.cpp)                           |
+| [Book Shop](https://cses.fi/problemset/task/1158/)            | [knapsack](dynamic-programming/1158-book-shop.cpp)                      |
