@@ -45,3 +45,4 @@
 | Problem Name                                                | Solution                                                                |
 |-------------------------------------------------------------|-------------------------------------------------------------------------|
 | [Dice Combinations](https://cses.fi/problemset/task/1633/)  | [dp](dynamic-programming/1633-dice-combinations.cpp)                    |
+| [Minimizing Coins](https://cses.fi/problemset/task/1634/)   | [dp](dynamic-programming/1634-minimizing-coins.cpp)                     |
