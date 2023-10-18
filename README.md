@@ -53,3 +53,5 @@
 | [Grid Paths](https://cses.fi/problemset/task/1638/)           | [dp](dynamic-programming/1638-grid-paths.cpp)                           |
 | [Book Shop](https://cses.fi/problemset/task/1158/)            | [knapsack](dynamic-programming/1158-book-shop.cpp)                      |
 | [Array Description](https://cses.fi/problemset/task/1746/)    | [2d dp](dynamic-programming/1746-array-description.cpp)                 |
+| [Counting Towers](https://cses.fi/problemset/task/2413/)      | [...](#)                                                                |
+| [Edit Distance](https://cses.fi/problemset/task/1639/)        | [2d dp](dynamic-programming/1639-ddit-distance.cpp)                     |
