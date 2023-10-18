@@ -55,3 +55,5 @@
 | [Array Description](https://cses.fi/problemset/task/1746/)    | [2d dp](dynamic-programming/1746-array-description.cpp)                 |
 | [Counting Towers](https://cses.fi/problemset/task/2413/)      | [...](#)                                                                |
 | [Edit Distance](https://cses.fi/problemset/task/1639/)        | [2d dp](dynamic-programming/1639-edit-distance.cpp)                     |
+| [Rectangle Cutting](https://cses.fi/problemset/task/1744/)    | [...](#)                                                                |
+| [Money Sums](https://cses.fi/problemset/task/1745/)           | [2d dp](dynamic-programming/1745-money-sums.cpp)                        |
