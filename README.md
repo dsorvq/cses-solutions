@@ -57,3 +57,17 @@
 | [Edit Distance](https://cses.fi/problemset/task/1639/)        | [2d dp](dynamic-programming/1639-edit-distance.cpp)                     |
 | [Rectangle Cutting](https://cses.fi/problemset/task/1744/)    | [...](#)                                                                |
 | [Money Sums](https://cses.fi/problemset/task/1745/)           | [2d dp](dynamic-programming/1745-money-sums.cpp)                        |
+
+
+### Graph Algorithms
+
+| Problem Name                                                  | Solution                                                                |
+|---------------------------------------------------------------|-------------------------------------------------------------------------|
+| [Counting Rooms](https://cses.fi/problemset/task/1192/)       | [dfs](graph-algorithms/1192-counting-rooms.cpp)                         |
+| [Labyrinth](https://cses.fi/problemset/task/1193/)            | [bfs](graph-algorithms/1193-labyrinth.cpp)                              |
+
+
+
+
+
+
