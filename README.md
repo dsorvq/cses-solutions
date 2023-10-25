@@ -65,8 +65,9 @@
 |---------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
 | [Counting Rooms](https://cses.fi/problemset/task/1192/)       | [dfs](graph-algorithms/1192-counting-rooms.cpp)                                                          |
 | [Labyrinth](https://cses.fi/problemset/task/1193/)            | [bfs](graph-algorithms/1193-labyrinth.cpp)                                                               |
-| [Building Roads](https://cses.fi/problemset/task/1666/)       | [bfs](graph-algorithms/1666-building-roads-dsf.cpp), [dsu](graph-algorithms/1666-building-roads-dsu.cpp) |
+| [Building Roads](https://cses.fi/problemset/task/1666/)       | [bfs](graph-algorithms/1666-building-roads-bfs.cpp), [dsu](graph-algorithms/1666-building-roads-dsu.cpp) |
 | [Message Route](https://cses.fi/problemset/task/1667/)        | [bfs](graph-algorithms/1667-message-route.cpp)                                                           |
+| [Building Teams](https://cses.fi/problemset/task/1668/)       | [dfs graph coloring](graph-algorithms/1668-building-teams.cpp)                                           |
 
 
 
