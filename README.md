@@ -68,7 +68,7 @@
 | [Building Roads](https://cses.fi/problemset/task/1666/)       | [bfs](graph-algorithms/1666-building-roads-bfs.cpp), [dsu](graph-algorithms/1666-building-roads-dsu.cpp) |
 | [Message Route](https://cses.fi/problemset/task/1667/)        | [bfs](graph-algorithms/1667-message-route.cpp)                                                           |
 | [Building Teams](https://cses.fi/problemset/task/1668/)       | [dfs graph coloring](graph-algorithms/1668-building-teams.cpp)                                           |
-
+| [Round Trip](https://cses.fi/problemset/task/1669/)           | [cycle detection](graph-algorithms/1669-round-trip.cpp)                                                  |
 
 
 
