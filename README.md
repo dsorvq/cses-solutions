@@ -71,6 +71,10 @@
 | [Round Trip](https://cses.fi/problemset/task/1669/)           | [cycle detection](graph-algorithms/1669-round-trip.cpp)                                                  |
 
 
+### Range Queries
 
+| Problem Name                                                            | Solution                                                                                       |
+|-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| [Static Range Sum Queries](https://cses.fi/problemset/task/1646/)       | [prefix sum](range-queries/1646-static-range-sum-queries.cpp)                                  |
 
 
