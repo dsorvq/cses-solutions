@@ -78,3 +78,9 @@
 | [Static Range Sum Queries](https://cses.fi/problemset/task/1646/)       | [prefix sum](range-queries/1646-static-range-sum-queries.cpp)                                  |
 
 
+### String Algorithms 
+
+| Problem Name                                                            | Solution                                                                                       |
+|-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| [Word Combinations](https://cses.fi/problemset/task/1731)               | [...]()                                                                                        |
+| [String Matching](https://cses.fi/problemset/task/1753)                 | [prefix function](string-algorithms/1753-string-matching.cpp)                                  |
